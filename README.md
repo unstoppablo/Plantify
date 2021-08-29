@@ -24,7 +24,7 @@ ___________________________________________________________
 
 
 ## Steps
-<b>Step 1.</b> Create a new virtual environment 
+<b>Step 1.</b> Create a new virtual environment inside of your respective directory
 <pre>
 python -m venv tfod
 </pre> 
